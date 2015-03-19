@@ -27,20 +27,16 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
-div.post-card {
+.post-card {
     margin-top: 50px;
     box-shadow: -3px -5px 10px #888888;
     border: 0px solid;
     border-radius: 15px;
     padding:15px;
     background-color: rgba(0,119,255, .4);
-        -webkit-transition: background 0.5s linear;
-        -moz-transition: background 0.5s linear;
-        -ms-transition: background 0.5s linear;
-        -o-transition: background 0.5s linear;
-        transition: background 0.5s linear;
+        transition: background 1s linear;
 }
-.post-card:hover { background-color: #d1d1d1; color:#fff;  }
+.post-card:hover { background-color: #d1d1d1;}
 
 // Using media queries with like this:
 // @include media-query($on-palm) {
