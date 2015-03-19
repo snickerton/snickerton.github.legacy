@@ -29,14 +29,50 @@ $on-laptop:        800px;
 
 .post-card {
     margin-top: 50px;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
     box-shadow: -3px -5px 10px #888888;
     border: 0px solid;
     border-radius: 15px;
     padding:15px;
-    background-color: rgba(0,119,255, .4);
-        transition: background 1s linear;
+    background: rgba(0,150,238, 1);
+    transition: all 1s ease;
 }
-.post-card:hover { background-color: #d1d1d1;}
+.post-card:hover img { 
+    opacity:1;
+}
+
+.post-card h2{
+    transition: all 1s ease;
+}
+.post-card:hover h2{
+    opacity: 0;
+}
+.post-card span{
+    transition: all 1s ease;
+}
+
+.post-card:hover span{
+    opacity: 0;
+}
+.post-card p{
+    transition: all 1s ease;
+}
+
+.post-card:hover p{
+    opacity: 0;
+}
+.post-card img {
+    position: absolute;
+    z-index: -1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+    opacity: 0;
+    transition: all 1s;
+}
 
 // Using media queries with like this:
 // @include media-query($on-palm) {

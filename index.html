@@ -10,6 +10,7 @@ layout: default
       <li>
       
       <div class = "post-card">
+        <div class = "otherstuff">
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
         <h2>
@@ -17,8 +18,11 @@ layout: default
         </h2>
         
         <p class="post-description">{{ post.description }}</p>
+        </div>
+        <img src="/pics/code.png">
       </div>  
-      
+             
+
       </li>
     {% endfor %}
   </ul>
