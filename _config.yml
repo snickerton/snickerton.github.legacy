@@ -2,10 +2,7 @@
 title: Tinker
 email: fakeemail@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Sup, I'm Tony and if you're reading this it either means you're an extremely good friend of mine
-  or you're horribly lost on the internet because this site is still under construction. I enjoy 
-  experimenting, tinkering if you will, with things that I deem as interesting at the time and I'll
-  post the product here if it isn't a failure.
+  A website for recording the projects I've done so far.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://snickerton.github.io" # the base hostname & protocol for your site
 github_username:  snickerton
