@@ -39,7 +39,17 @@ $on-laptop:        800px;
     background: rgba(91,179,255, 1);
     transition: all 1s ease;
 }
-.post-card:hover img { 
+
+.otherstuff:hover {
+    opacity: 1;
+    transition: all 1s ease;
+}
+
+.otherstuff:hover {
+    opacity: 0;
+}
+
+/*.post-card:hover img { 
     opacity:1;
 }
 
@@ -58,7 +68,7 @@ $on-laptop:        800px;
 }
 .post-card p{
     transition: all 1s ease;
-}
+}*/
 
 .post-card:hover p{
     opacity: 0;
