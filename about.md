@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Sup, I'm Tony and if you're reading this it either means you're an extremely good friend of mine
+or you're horribly lost on the internet because this site is still under construction. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I enjoy experimenting, tinkering if you will, with things that I deem as interesting at the time and I'll
+post the product here if it isn't a failure. I'm most familiar with Java but I've been recently working with Javascript and HTML/CSS so the new projects posted here will most likely be of that genre.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+
