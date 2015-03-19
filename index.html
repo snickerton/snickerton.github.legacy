@@ -8,6 +8,8 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
+      
+      <div class = "post-card">
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
         <h2>
@@ -15,7 +17,8 @@ layout: default
         </h2>
         
         <p class="post-description">{{ post.description }}</p>
-        
+      </div>  
+      
       </li>
     {% endfor %}
   </ul>
