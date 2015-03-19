@@ -52,27 +52,7 @@ $on-laptop:        800px;
 .post-card:hover img { 
     opacity:1;
 }
-/*
-.post-card h2{
-    transition: all 1s ease;
-}
-.post-card:hover h2{
-    opacity: 0;
-}
-.post-card span{
-    transition: all 1s ease;
-}
 
-.post-card:hover span{
-    opacity: 0;
-}
-.post-card p{
-    transition: all 1s ease;
-}
-
-.post-card:hover p{
-    opacity: 0;
-}*/
 .post-card img {
     position: absolute;
     z-index: -1;
