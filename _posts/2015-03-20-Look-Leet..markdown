@@ -11,7 +11,8 @@ categories: HTML projects
 
 <b>Duration coding:</b> ~1.5hrs
 
-<b>Process:</b> First thing's first, we need a way to show text on a website. HTML canvas and javascript seems like the obsession for me right now so we're doing that. We also need to somehow keep track of where we are within the predefined paragraph of code. Since we're using canvas, every new letter and line will have to be manually drawn based off of how much the user has "typed" from the code. I settled on having a string array (`code[]`) filled with each consecutive line of code so that we could iterate through the entire code with just two variables: character spot in the line (`place`) and which line (`linePos`). All we have to do is just increment `place` every time we draw a character and increment `linePos` every time we finish a line. With that set up, the algorithm I had in mind looked like this:
+<b>Process:</b> 
+First thing's first, we need a way to show text on a website. HTML canvas and javascript seems like the obsession for me right now so we're doing that. We also need to somehow keep track of where we are within the predefined paragraph of code. Since we're using canvas, every new letter and line will have to be manually drawn based off of how much the user has "typed" from the code. I settled on having a string array (`code[]`) filled with each consecutive line of code so that we could iterate through the entire code with just two variables: character spot in the line (`place`) and which line (`linePos`). All we have to do is just increment `place` every time we draw a character and increment `linePos` every time we finish a line. With that set up, the algorithm I had in mind looked like this:
 
 if a key is pressed:
 1)take string at index `linePos` of `code[]`
@@ -41,8 +42,9 @@ After endless trudging through a barren wasteland of unhelpful Stack Overflow co
 <b>Lesson Learned:</b>
 The HTML canvas is like a pet rattlesnake: cool to show your friends if you have it under control, but will bite you in the ass and kill you if you're not careful.
 
+<b>Future:</b> I'm planning on implementing autoscrolling tomorrow so that once the code goes off the screen the window will just continue to follow the newly written code. Otherwise, this is about as good as it gets people.
 
-Until next time,</br>
+Until next time,<br>
 Tony Zhu, The Tinkerer
 
 [LookLeet]:    http://snickerton.github.io/LookLeet/
