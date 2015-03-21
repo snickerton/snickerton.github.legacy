@@ -22,7 +22,7 @@ if a key is pressed:
 
 Now we need check if we've finished the line and if so, increment `linePos` and set `place = 0`. So a simple if statement beforehand should do the trick:
 
-{% highlight ruby %}
+{% highlight javascript %}
  if(place>code[linePos].length){
             linePos++;
             place = 0;
