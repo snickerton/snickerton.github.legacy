@@ -19,9 +19,12 @@ You have an array full of words that could get you slapped by your mother, and y
 I'm easily amused.
 
 <h3><b>Future:</b></h3> 
-1) Forget about the existence of this website.
+1) Forget about the existence of this website. 
+
 2) Stumble upon it again when looking through my old projects.
+
 3) Enjoy a good chuckle or two.
+
 4) Profit.
 
 
