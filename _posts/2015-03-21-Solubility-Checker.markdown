@@ -30,6 +30,16 @@ Finally all we need are the `if` statements. What I ended up doing was working t
 
 Unfortunately, chemistry also dictates that we can have more than one SO<sub>4</sub>'s or bariums in a compound so excess numbers may be included to indicate the amount of an element (e.g. "(SO<sub>4</sub>)<sub>2</sub>"). Because of this, I decided that I would just check if the cation or anion string `.contains` any of the ions in our word banks. So even if the user gave "(SO<sub>4</sub>)<sub>2</sub>" we would just be searching for "SO<sub>4</sub>" and ignore any excess numbers. I wrote a quick `coincides(arr, str)` method to iterate throught the given word bank/array and check if any string was contained...
 
+{% highlight javascript %}
+function coincides(arr, s){
+	for(var i = 0; i<arr.length; i++){
+	  if(s.indexOf(arr[i]) > -1){
+	  	return true;
+	  }
+	}
+}	
+{% endhighlight%}
+
 ...and voila! All done.
 
 <h3><b>Lesson Learned:</b></h3>
