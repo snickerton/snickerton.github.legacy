@@ -40,7 +40,7 @@ This code ran smoothly at first, typing the first short lines in flawless distor
 After endless trudging through a barren wasteland of unhelpful Stack Overflow comments I finally came across a diamond shard. This miraculous godsend bestowed upon me their knowledge of how apparently you have to adjust the `canvas.style.width` and `canvas.style.height` as well. So with the final code in place and the `canvas.style` set to it's respective canvas.width and canvas.height, I saw a simple but priceless piece of art unfold on the screen before me.
 
 <h3><b>Lesson Learned:</b></h3>
-The HTML canvas is like a pet rattlesnake: cool to show your friends if you have it under control, but will bite you in the ass and kill you if you're not careful.
+The HTML canvas is like a pet rattlesnake: cool to show your friends if you have it under control, but will bite you in the ass and kill you if you're not careful. Resolutions are tricky so make sure the size isn't distorted. Also something note-worthy, when printing out string of code such as `"</script>"` you have to the escape slash to ensure that javascript doesn't run it as actual code: `"<\/script>"` (Thank you Jason for catching that).
 
 <h3><b>Future:</b></h3> I'm planning on implementing autoscrolling tomorrow so that once the code goes off the screen the window will just continue to follow the newly written code. Otherwise, this is about as good as it gets people.
 
