@@ -8,6 +8,7 @@ img: insults
 ---
 <h3><b>What it is:</b></h3> 
 I once read the insult "you cunt muffin" on a website for judging whether or not to punish toxics League of Legends players based off of their chat logs. After recovering from my hurting sides and cheeks, I decided I could make an insult generator that took a nsfw noun and combined it with a random household noun. The result was pretty amazing.
+
 <b>Site:</b> [snickerton.github.io/insultsGalore][site] 
 
 <b>Duration Coding:</b> 1hr
