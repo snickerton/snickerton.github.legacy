@@ -9,7 +9,7 @@ categories: HTML projects
 
 <b>Site:</b> [snickerton.github.io/LookLeet][LookLeet] 
 
-<b>Duration Coding:</b> ~1.5hrs
+<b>Duration Coding:</b> ~2.5hrs
 
 <h3><b>Process:</b></h3> 
 First thing's first, we need a way to show text on a website. HTML canvas and javascript seems like the obsession for me right now so we're doing that. We also need to somehow keep track of where we are within the predefined paragraph of code. Since we're using canvas, every new letter and line will have to be manually drawn based off of how much the user has "typed" from the code. I settled on having a string array (`code[]`) filled with each consecutive line of code so that we could iterate through the entire code with just two variables: character spot in the line (`place`) and which line (`linePos`). All we have to do is just increment `place` every time we draw a character and increment `linePos` every time we finish a line. With that set up, the algorithm I had in mind looked like this:
