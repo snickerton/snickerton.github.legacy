@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "LookLeet"
+description: "Website that makes you look like a 1337 hacker with mad coding skillz"
+date:   2015-03-20 9:16:41pm
+categories: HTML projects
+---
+What is it: Everyone enjoys looking smart so I decided I would make a website that types predefined code every time the user presses any key. Mash your keyboard and watch the uber intelligent-looking code literally write itself on the screen. 
+
+Site: [snickerton.github.io/LookLeet][LookLeet] 
+
+Duration coding: ~1.5hrs
+
+Process: First thing's first, we need a way to show text on a website. HTML canvas and javascript seems like the obsession for me right now so we're doing that. We also need to somehow keep track of where we are within the predefined paragraph of code. Since we're using canvas, every new letter and line will have to be manually drawn based off of how much the user has "typed" from the code. I settled on having a string array (`code[]`) filled with each consecutive line of code so that we could iterate through the entire code with just two variables: character spot in the line (`place`) and which line (`linePos`). All we have to do is just increment `place` every time we draw a character and increment `linePos` every time we finish a line. With that set up, the algorithm I had in mind looked like this:
+
+if a key is pressed:
+1)take string at index `linePos` of `code[]`
+2)find the character at position `place` in said string
+3)draw that on canvas: x position: `place` * the character width | y position: `linePos` * line height
+4)increment `place` by one
+
+Now we need check if we've finished the line and if so, increment `linePos` and set `place = 0`. So a simple if statement beforehand should do the trick:
+
+{% highlight ruby %}
+ if(place>code[linePos].length){
+            linePos++;
+            place = 0;
+ }
+{% endhighlight %}
+
+Surround the entire algorithm in an `EventListener` for keys and we're good to go! 
+
+Next was, surprisingly, configuring the resolution of the canvas in conjunction with the actual window size. This actually turned out to be one of the hardest problems I had to face. At first, I simply did `<canvas id="canvas" width = 500 height = 500></canvas>` and added `width: 100% height: 100%` in css for my canvas. However that quickly became a problem as the text immediately showed to be heavily distorted and not leet-like at all. 
+
+After a heavy amount of google searching I found out that the canvas was actually starting with a resolution of 500px by 500px and then <i>stretching</i> to the window resolution of my 1280px by 800px monitor. I googled again, guessed, checked, deleted, and played rollercoaster with my feelings for a while and finally stumbled upon just using `width = window.innerWidth height = window.innerHeight` in the html tag without any width and height definitons in the css portion. 
+
+This code ran smoothly at first, typing the first short lines in flawless distortion-less quality, but then conveniently decided to cut off the last couple of characters in the longer lines that followed. I began to doubt my sanity once again as all evidence pointed to the possibility that the canvas dimensions were in fact <i>not</i> `window.innerWidth` by `window.innerHeight` but rather some default dimension. Confirming the paradox with a quick `console.log(canvas.width+ " " +canvas.height)` I decided to go back to weakly nudging my problems away with google.
+
+After endless trudging through a barren wasteland of unhelpful Stack Overflow comments I finally came across a diamond shard. This miraculous godsend bestowed upon me their knowledge of how apparently you have to adjust the `canvas.style.width` and `canvas.style.height` as well. So with the final code in place and the `canvas.style` set to it's respective canvas.width and canvas.height, I saw a simple but priceless piece of art unfold on the screen before me.
+
+Lesson Learned:
+The HTML canvas is like a pet rattlesnake: cool to show your friends if you have it under control, but will bite you in the ass and kill you if you're not careful.
+
+
+[LookLeet]:    http://snickerton.github.io/LookLeet/
+
