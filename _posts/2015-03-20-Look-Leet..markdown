@@ -7,7 +7,7 @@ categories: HTML projects
 ---
 <h3><b>What it is:</b></h3> Everyone enjoys looking smart so I decided I would make a website that types predefined code every time the user presses any key. Mash your keyboard and watch the uber intelligent-looking code literally write itself on the screen. 
 
-<p style = "font-size:200%"><b>Site:</b></p> [snickerton.github.io/LookLeet][LookLeet] 
+<strong><b>Site:</b> [snickerton.github.io/LookLeet][LookLeet] 
 
 <b>Duration coding:</b> ~1.5hrs
 
