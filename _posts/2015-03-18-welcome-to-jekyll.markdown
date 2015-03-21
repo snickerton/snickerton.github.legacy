@@ -4,6 +4,7 @@ title:  "Test Post"
 description: "This is a description test"
 date:   2015-03-18 19:32:33
 categories: jekyll update
+img: cat
 ---
 <h1> This is a test post, please choose a different more interesting post </h1>
 
