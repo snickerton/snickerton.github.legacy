@@ -7,8 +7,7 @@ categories: HTML projects
 ---
 
 
-<i>Note: This project was created before the birth of Tinker but I still wanted to keep a record of it. Therefore, many of the descriptions will be vague, and will accurately exhibit how bad my memory is.
-
+<i>Note: This project was created before the birth of Tinker but I still wanted to keep a record of it. Therefore, many of the descriptions will be vague, and will accurately exhibit how bad my memory is. <br>
 Article is still under construction.</i>
 
 <h3><b>What it is:</b></h3> Chemistry solubility rules are tedious and annoying to go through every single time. The rules/conditions are perfect for computers however, so I created a website that evaluates an ionic compound given these rules.
