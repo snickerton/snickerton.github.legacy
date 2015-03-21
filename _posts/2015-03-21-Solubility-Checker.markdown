@@ -2,7 +2,7 @@
 layout: post
 title:  "Solubility Checker"
 description: "Website that determines if a compound is soluble or not"
-date:   2015-03-20 9:16:41pm
+date:   2015-03-21 9:16:41pm
 categories: HTML projects
 ---
 
