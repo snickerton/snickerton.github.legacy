@@ -44,10 +44,8 @@ The HTML canvas is like a pet rattlesnake: cool to show your friends if you have
 
 <h3><b>Future:</b></h3> I'm planning on implementing autoscrolling tomorrow so that once the code goes off the screen the window will just continue to follow the newly written code. Otherwise, this is about as good as it gets people.
 
-<style>
- @font-face { font-family: SignOff; src: url('SCRIPTIN.tff'); } 
-</style>
-<p style="font-family: SignOff">
+
+<p id="SignOff">
 Until next time,<br>
 Tony Zhu, The Tinkerer
 </p>
