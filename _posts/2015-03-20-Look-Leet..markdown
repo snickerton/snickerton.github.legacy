@@ -41,8 +41,9 @@ After endless trudging through a barren wasteland of unhelpful Stack Overflow co
 <b>Lesson Learned:</b>
 The HTML canvas is like a pet rattlesnake: cool to show your friends if you have it under control, but will bite you in the ass and kill you if you're not careful.
 
-Until next time,
-Tony Zhu
+
+Until next time,</br>
+Tony Zhu, The Tinkerer
 
 [LookLeet]:    http://snickerton.github.io/LookLeet/
 
