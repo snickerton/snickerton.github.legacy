@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Solubility Checker"
@@ -6,6 +5,8 @@ description: "Website that determines if a compound is soluble or not"
 date:   2015-03-20 9:16:41pm
 categories: HTML projects
 ---
+
+
 <i>Note: This project was created before the birth of Tinker but I still wanted to keep a record of it. Therefore, many of the descriptions will be vague, and will accurately exhibit how bad my memory is.
 
 Article is still under construction.
