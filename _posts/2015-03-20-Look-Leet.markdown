@@ -4,6 +4,7 @@ title:  "LookLeet"
 description: "Website that makes you look like a 1337 hacker with mad coding skillz"
 date:   2015-03-20 9:16:41pm
 categories: HTML projects
+img: code
 ---
 <h3><b>What it is:</b></h3> Everyone enjoys looking smart so I decided I would make a website that types predefined code every time the user presses any key. Mash your keyboard and watch the uber intelligent-looking code literally write itself on the screen. 
 
