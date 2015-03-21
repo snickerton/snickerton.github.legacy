@@ -80,6 +80,22 @@ $on-laptop:        800px;
     opacity:.9;
 }
 
+.post-card_nsfw img {
+    position: absolute;
+    z-index: -1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+    opacity: .1;
+    transition: opacity 1s;
+}
+
+.post-card_nsfw:hover img { 
+    z-index: 1;
+    opacity:.9;
+}
+
 
 
 // Using media queries with like this:
