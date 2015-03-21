@@ -5,13 +5,13 @@ description: "Website that makes you look like a 1337 hacker with mad coding ski
 date:   2015-03-20 9:16:41pm
 categories: HTML projects
 ---
-What is it: Everyone enjoys looking smart so I decided I would make a website that types predefined code every time the user presses any key. Mash your keyboard and watch the uber intelligent-looking code literally write itself on the screen. 
+<b>What is it:</b> Everyone enjoys looking smart so I decided I would make a website that types predefined code every time the user presses any key. Mash your keyboard and watch the uber intelligent-looking code literally write itself on the screen. 
 
-Site: [snickerton.github.io/LookLeet][LookLeet] 
+<b>Site:</b> [snickerton.github.io/LookLeet][LookLeet] 
 
-Duration coding: ~1.5hrs
+<b>Duration coding:</b> ~1.5hrs
 
-Process: First thing's first, we need a way to show text on a website. HTML canvas and javascript seems like the obsession for me right now so we're doing that. We also need to somehow keep track of where we are within the predefined paragraph of code. Since we're using canvas, every new letter and line will have to be manually drawn based off of how much the user has "typed" from the code. I settled on having a string array (`code[]`) filled with each consecutive line of code so that we could iterate through the entire code with just two variables: character spot in the line (`place`) and which line (`linePos`). All we have to do is just increment `place` every time we draw a character and increment `linePos` every time we finish a line. With that set up, the algorithm I had in mind looked like this:
+<b>Process:</b> First thing's first, we need a way to show text on a website. HTML canvas and javascript seems like the obsession for me right now so we're doing that. We also need to somehow keep track of where we are within the predefined paragraph of code. Since we're using canvas, every new letter and line will have to be manually drawn based off of how much the user has "typed" from the code. I settled on having a string array (`code[]`) filled with each consecutive line of code so that we could iterate through the entire code with just two variables: character spot in the line (`place`) and which line (`linePos`). All we have to do is just increment `place` every time we draw a character and increment `linePos` every time we finish a line. With that set up, the algorithm I had in mind looked like this:
 
 if a key is pressed:
 1)take string at index `linePos` of `code[]`
@@ -38,7 +38,7 @@ This code ran smoothly at first, typing the first short lines in flawless distor
 
 After endless trudging through a barren wasteland of unhelpful Stack Overflow comments I finally came across a diamond shard. This miraculous godsend bestowed upon me their knowledge of how apparently you have to adjust the `canvas.style.width` and `canvas.style.height` as well. So with the final code in place and the `canvas.style` set to it's respective canvas.width and canvas.height, I saw a simple but priceless piece of art unfold on the screen before me.
 
-Lesson Learned:
+<b>Lesson Learned:</b>
 The HTML canvas is like a pet rattlesnake: cool to show your friends if you have it under control, but will bite you in the ass and kill you if you're not careful.
 
 
