@@ -29,6 +29,10 @@ I'm easily amused.
 4) Profit.
 
 
+
+<h3><b>UPDATE[3-22-15]:</b></h3>
+Try opening this website on Chrome and make sure your volume is up. Oh what a wonderful age we live in.
+
 [site]:    http://snickerton.github.io/insultsGalore/
 
 
