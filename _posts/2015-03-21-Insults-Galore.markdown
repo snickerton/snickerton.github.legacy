@@ -30,8 +30,7 @@ I'm easily amused.
 
 
 
-<h3><b>UPDATE[3-22-15]:</b></h3>
-Try opening this website on Chrome and make sure your volume is up. Oh what a wonderful age we live in.
+<b>UPDATE[3-22-15]:</b>Try opening this website on Chrome and make sure your volume is up. Oh what a wonderful age we live in.
 
 [site]:    http://snickerton.github.io/insultsGalore/
 
