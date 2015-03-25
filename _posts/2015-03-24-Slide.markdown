@@ -10,12 +10,13 @@ img:
 
 <b>Site:</b> <http://snickerton.github.io/slide/> 
 
-<b>Duration Coding:</b> 
+<b>Duration Coding:</b> 3.5 hrs
 
 <h3><b>Process:</b></h3> 
-
+Will fill in later.
 
 <h3><b>Lesson Learned:</b></h3>
+I can really code when I get angry and pissed. Also experience helps, everthing was much faster and nicer looking
 
 <h3><b>Future:</b></h3> 
 
