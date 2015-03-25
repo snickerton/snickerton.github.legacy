@@ -4,7 +4,7 @@ title:  "Slide"
 description: "First working HTML game with really nice web design"
 date:   2015-03-24 9:16:41pm
 categories: HTML projects
-img: slide
+img: Slide
 ---
 <h3><b>What it is:</b></h3> 
 
