@@ -3,7 +3,7 @@ layout: post
 title:  "Slide"
 description: "First working HTML game with really nice web design"
 date:   2015-03-20 9:16:41pm
-categories: html projects
+categories: HTML projects
 img: 
 ---
 <h3><b>What it is:</b></h3> 
