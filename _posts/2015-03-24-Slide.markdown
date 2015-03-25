@@ -9,7 +9,7 @@ img:
 ---
 <h3><b>What it is:</b></h3> 
 
-<b>Site:</b> <website here>
+<b>Site:</b> <http://snickerton.github.io/slide/> 
 
 <b>Duration Coding:</b> 
 
