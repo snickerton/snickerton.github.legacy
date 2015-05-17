@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Congrats on the sex"
-description: ""
+description: "How to celebrate the loss of someone's virginity"
 date:   2015-05-17 1:16:41am
 categories: nsfw
 img: Sex
