@@ -7,6 +7,7 @@ categories: HTML projects
 img: Slide
 ---
 <h3><b>What it is:</b></h3> 
+A pretty simple game idea regarding matching colors and a pretty UI.
 
 <b>Site:</b> <http://snickerton.github.io/slide/> 
 
