@@ -4,7 +4,7 @@ title:  "Congrats on the sex"
 description: ""
 date:   2015-05-17 1:16:41am
 categories: nsfw
-img: Sex
+img: Sex.jpg
 ---
 <h3><b>What it is:</b></h3>
 It is the best celebratory website to send to your friend when they lose their virginity. 
