@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Test Post"
+title:  "Test Post Please Ignore"
 description: "This is a description test"
 date:   2015-03-18 19:32:33
 categories: jekyll update
 img: cat
 ---
-<h1> This is a test post, please choose a different more interesting post </h1>
+<h1> This is a test post, please choose a different, more interesting post </h1>
 
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
