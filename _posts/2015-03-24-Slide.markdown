@@ -6,22 +6,17 @@ date:   2015-03-24 9:16:41pm
 categories: HTML projects
 img: Slide
 ---
-<h3><b>What it is:</b></h3> 
+<h3><b>What it is:</b></h3>
 A pretty simple game idea regarding matching colors and a pretty UI.
 
-<b>Site:</b> <http://snickerton.github.io/slide/> 
+<b>Site:</b> [http://snickerton.github.io/slide/][site]
 
 <b>Duration Coding:</b> 3.5 hrs
 
-<h3><b>Process:</b></h3> 
+<h3><b>Process:</b></h3>
 Will fill in later.
 
 <h3><b>Lesson Learned:</b></h3>
 I can really code when I get angry and pissed. Also experience helps, everthing was much faster and nicer looking
 
-<h3><b>Future:</b></h3> 
-
-
-
-
-
+<h3><b>Future:</b></h3>
