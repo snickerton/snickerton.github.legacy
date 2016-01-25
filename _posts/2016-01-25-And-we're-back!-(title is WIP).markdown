@@ -9,7 +9,7 @@ img:
 <h3><b>What it is:</b></h3>
 
 
-<b>Site:</b> [http://snickerton.github.io/Math420MovementModel/][site]
+<b>Site:</b> [snickerton.github.io/Math420MovementModel][site]
 
 <b>Duration Coding:</b> An entire night so.... 6 hours..ish?
 
@@ -22,3 +22,5 @@ It started out has a discussion in class about how nice it would be to visually 
 <h3><b>Lesson Learned:</b></h3>
 
 <h3><b>Future:</b></h3>
+
+[site]:    http://snickerton.github.io/Math420MovementModel

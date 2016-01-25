@@ -9,7 +9,7 @@ img: Sex
 <h3><b>What it is:</b></h3>
 It is the best celebratory website to send to your friend when they lose their virginity.
 
-<b>Site:</b> [http://snickerton.github.io/HeyHaeyeon/][site]
+<b>Site:</b> [snickerton.github.io/HeyHaeyeon][site]
 
 <b>Duration Coding:</b> 2hrs
 
@@ -23,3 +23,5 @@ Animations in html are pretty powerful and fast, however it still sucks not to h
 
 <h3><b>Future:</b></h3>
 Hopefully one day, I'll be able to open this website and smile because it would finally apply to me.
+
+[site]:    http://snickerton.github.io/HeyHaeyeon/
