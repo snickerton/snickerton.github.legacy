@@ -4,7 +4,7 @@ title:  "Modeling Functions with Movement"
 description: "A website that models a position over time function with a neat little white circle."
 date:   2016-01-25 4:20:41pm
 categories: HTML projects
-img:
+img: mmm
 ---
 <h3><b>What it is:</b></h3>
 Awesome website that takes any equation you give it and makes a white circle model a movement based on said function.
