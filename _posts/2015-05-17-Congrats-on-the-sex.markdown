@@ -13,8 +13,13 @@ It is the best celebratory website to send to your friend when they lose their v
 
 <b>Duration Coding:</b> 2hrs
 
+<<<<<<< HEAD
 <h3><b>Process:</b></h3>
 Recently, my good coding buddy came onto a skype call with me and the words "I just had sex". Naturally, after a string of really bad jokes and dumbfounded amazement from me, I thought of an appropriate way to celebrate the occasion. With the knowledge that this friend, let's call him Nosaj Now, had previously worked with animations in html, I decided that it would be extremely possible, with his help, to whip up a surprise party-esque pandora's sex box of wonder. Overall it probably took longer to debug the forgotten semicolons in the stylsheet or to edit a transparent background into the clipart balloons found online. Once all the assets were found and a single animations worked, you could just copy paste it's css and tinker until you got your desired animations for the other "party objects".  
+=======
+<h3><b>Process:</b></h3> 
+Recently, my good coding buddy came onto a skype call with me and the words "I just had sex". Naturally, after a string of really bad jokes and dumbfounded amazement from me, I thought of an appropriate way to celebrate the occasion. With the knowledge that this friend, let's call him Nosaj Now, had previously worked with animations in html, I decided that it would be extremely possible, with his help, to whip up a surprise party-esque low-budget pandora's sex box of wonder. Overall it probably took longer to debug the forgotten semicolons in the stylsheet or to edit a transparent background into the clipart balloons found online. Once all the assets were found and a single animations worked, you could just copy paste it's css and tinker until you got your desired animations for the other "party objects".  
+>>>>>>> origin/master
 
 With all of this being said, I must give credit where it's due. Unfortunately, I generally believe these types of things should be discreet/private for obvious reasons. In leu of that, I'll just simply say: Congrats to Nosaj Now for losing his virginity in the most boss way possible, and thanks to him for inspiring this wonderful piece of art.
 

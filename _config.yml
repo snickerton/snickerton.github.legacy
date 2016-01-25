@@ -1,6 +1,6 @@
 # Site settings
 title: Tinker
-email: fakeemail@gmail.com
+email: tinkerertony@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A website for recording the projects I've done so far.
 baseurl: "" # the subpath of your site, e.g. /blog/
