@@ -11,10 +11,10 @@ Until then, please enjoy the following section where I give a riveting 3 line su
 I enjoy experimenting, tinkering if you will, with things that I deem as interesting at the time and I'll
 post the product here if it isn't a complete disaster. I'm most familiar with Java but I've been recently working with Javascript and HTML/CSS so the new projects posted here will most likely be of that genre.
 
-And there you have it folks. Anyways, feel free to poke around read about the programs I've made so far, as they hopefully provide some form of entertainment for you all.
+And there you have it folks. Anyways, feel free to poke around read about the programs I've made so far, as they hopefully provide some helpful information or simple entertainment to your life.
 
-<insert weird quirkly sign-off here>
+Lastly, if you have any ideas, comments, concerns, or cat stories that you would like me to hear, you can email me at: tinkerertony@gmail.com
 
-If you have any ideas, comments, concerns, or cat stories that you would like me to hear, you can email me at: tinkerertony@gmail.com
+Tony
 
 
