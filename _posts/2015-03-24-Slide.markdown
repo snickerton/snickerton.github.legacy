@@ -11,14 +11,15 @@ A pretty simple game idea regarding matching colors and a pretty UI.
 
 <b>Site:</b> [snickerton.github.io/slideOnline][site]
 
-<b>Duration Coding:</b> 3.5 hrs
+<b>Duration Coding:</b> 4 hrs
 
-<h3><b>Process:</b></h3>
-Will fill in later.
+<h3><b>Process:  [Articles are WIP]</b></h3>
+To be updated.
 
 <h3><b>Lesson Learned:</b></h3>
-I can really code when I get angry and pissed. Also experience helps, everything was much faster and nicer looking.
+So far it seems our tinkering with HTML/CSS has paid off. Overall the process in creating this game was significantly more streamline and presentable.
 
 <h3><b>Future:</b></h3>
+Hopefully I'll be able to port this onto an Android and IOS platform. We'll see.
 
 [site]:    http://snickerton.github.io/slideOnline/
